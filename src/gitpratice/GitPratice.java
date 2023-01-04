@@ -2,9 +2,6 @@ package gitpratice;
 
 public class GitPratice {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+	
 
 }
